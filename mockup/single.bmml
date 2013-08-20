@@ -1,0 +1,15 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1305" measuredH="448" mockupW="435" mockupH="400">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="870" y="334" w="435" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="870" y="344" w="429" h="79" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Developer%20Tools%20%28with%20XPath%20Magic%20Plugin%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="870" y="48" w="435" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chrome%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

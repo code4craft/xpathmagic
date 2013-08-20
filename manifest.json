@@ -1,0 +1,13 @@
+{
+    "name": "xpathmagic",
+    "icons": {
+        "16": "icon.png",
+        "24": "icon.png",
+        "32": "icon.png",
+        "128": "icon.png"
+    },
+    "version": "1",
+    "manifest_version": 2,
+    "description": "View your github stars!",
+    "devtools_page": "devtools.html"
+}
