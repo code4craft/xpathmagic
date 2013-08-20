@@ -29,10 +29,10 @@ For example, &lt;div id="OSChina_News_43391"&gt; in page [http://www.oschina.net
 
 So users can add another different page for extracting. This two pages are in a same kind but with diffent content.
 
-When select element in the left page, the XPath will be extracted by *Algorithm I*. Then it will try to select elements in the right page. If matched, hightlight them and print answer. If not matched, consider the result as FAILURE and do step 4 in *Algorithm I*.
+When select element in the left page, the XPath will be extracted by *Algorithm I*. Then we will use it to select elements in the right page. If matching, hightlight the matching elements and print answer. If not matching, consider the result as FAILURE and continue step 4 in *Algorithm I*.
 
 ![image](https://raw.github.com/code4craft/xpathmagic/master/images/compare.png)
 
 ##License
 
-Mit License
+[Mit License](http://opensource.org/licenses/MIT)
