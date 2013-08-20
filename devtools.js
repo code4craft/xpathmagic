@@ -24,3 +24,8 @@ chrome.devtools.panels.elements.createSidebarPane(
         chrome.devtools.panels.elements.onSelectionChanged.addListener(
             updateElementProperties);
     });
+
+candidateAttributes=['id','class']
+candidateAttributes.forEach(){
+
+}
